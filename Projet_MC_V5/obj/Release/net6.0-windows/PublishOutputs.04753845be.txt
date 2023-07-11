@@ -1,0 +1,6 @@
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\publish\Project_MC_V5.exe
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\publish\Project_MC_V5.dll
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\publish\Project_MC_V5.deps.json
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\publish\Project_MC_V5.runtimeconfig.json
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\publish\Project_MC_V5.pdb
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\publish\EEIP.dll

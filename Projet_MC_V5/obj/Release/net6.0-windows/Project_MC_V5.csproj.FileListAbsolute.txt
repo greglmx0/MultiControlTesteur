@@ -1,0 +1,20 @@
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\Release\net6.0-windows\EEIP.dll
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\Project_MC_V5.csproj.AssemblyReference.cache
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\Projet_MC_V5.Form_Main.resources
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\Project_MC_V5.Properties.Resources.resources
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\Project_MC_V5.csproj.GenerateResource.cache
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\Project_MC_V5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\Project_MC_V5.AssemblyInfoInputs.cache
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\Project_MC_V5.AssemblyInfo.cs
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\Project_MC_V5.csproj.CoreCompileInputs.cache
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\Project_MC_V5.csproj.CopyComplete
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\Project_MC_V5.genruntimeconfig.cache
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\Release\net6.0-windows\Logiciel banc MultiControl.exe
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\Release\net6.0-windows\Logiciel banc MultiControl.deps.json
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\Release\net6.0-windows\Logiciel banc MultiControl.runtimeconfig.json
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\Release\net6.0-windows\Logiciel banc MultiControl.dll
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\Release\net6.0-windows\Logiciel banc MultiControl.pdb
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\Logiciel banc MultiControl.dll
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\refint\Logiciel banc MultiControl.dll
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\Logiciel banc MultiControl.pdb
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\obj\Release\net6.0-windows\ref\Logiciel banc MultiControl.dll

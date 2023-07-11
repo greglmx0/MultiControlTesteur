@@ -1,0 +1,6 @@
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\Release\net6.0-windows\publish\Logiciel banc MultiControl.exe
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\Release\net6.0-windows\publish\Logiciel banc MultiControl.dll
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\Release\net6.0-windows\publish\Logiciel banc MultiControl.deps.json
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\Release\net6.0-windows\publish\Logiciel banc MultiControl.runtimeconfig.json
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\Release\net6.0-windows\publish\Logiciel banc MultiControl.pdb
+C:\Users\g.lamoureux\Desktop\C#\Projet_MC_V5\Projet_MC_V5\bin\Release\net6.0-windows\publish\EEIP.dll

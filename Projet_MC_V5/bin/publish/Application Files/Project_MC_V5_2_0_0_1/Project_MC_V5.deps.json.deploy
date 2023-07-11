@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Project_MC_V5/1.0.0": {
+        "dependencies": {
+          "EEIP": "1.6.0.24695"
+        },
+        "runtime": {
+          "Project_MC_V5.dll": {}
+        }
+      },
+      "EEIP/1.6.0.24695": {
+        "runtime": {
+          "EEIP.dll": {
+            "assemblyVersion": "1.6.0.24695",
+            "fileVersion": "1.6.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project_MC_V5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EEIP/1.6.0.24695": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
